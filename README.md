@@ -1,1 +1,1 @@
-# golang-with-experts-study
+# go-with-experts-study
